@@ -1,16 +1,28 @@
-## Hi there 👋
+# 🚀 PolarisX Global
 
-<!--
-**PolarisXGlobal/PolarisXGlobal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to the PolarisX Ecosystem 💙
 
-Here are some ideas to get you started:
+## 🌐 About
+PolarisX is a transparent Web3 ecosystem focused on:
+- DeFi Solutions
+- Smart Contracts
+- Community-driven growth
+- Wallet-based identity
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔥 Features
+- Transparent Tokenomics
+- Secure Smart Contracts
+- Scalable Ecosystem
+- Future-ready Web3 Infrastructure
+
+## 📊 Token Info
+- Name: PolarisX
+- Network: BNB Smart Chain
+- Type: BEP-20
+
+## 📢 Vision
+Building trust in blockchain through transparency and innovation.
+
+---
+
+💙 PolarisX Official
