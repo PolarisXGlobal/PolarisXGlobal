@@ -32,13 +32,13 @@ PolarisX is a next-generation Web3 ecosystem focused on:
 - **Name:** PolarisX  
 - **Network:** BNB Smart Chain (BEP-20)  
 - **Contract Address:**  
-  `0x94555E31F578fEA3aEEe724A30C15cDD129a04C6`
+  `0x924b2e4C1a4ab8D9CF08352754614763794d92A2`
 
 ---
 
 ## 🔍 Contract Verification
 
-👉 https://bscscan.com/address/0x94555E31F578fEA3aEEe724A30C15cDD129a04C6
+👉 https://bscscan.com/token/0x924b2e4C1a4ab8D9CF08352754614763794d92A2
 
 ---
 
