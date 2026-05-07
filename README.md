@@ -95,7 +95,7 @@ PolarisX aims to deliver:
 
 ## 📬 Contact
 
-- Email: polarisxofficial@gmail.com  
+- Email:- info@polarisx.live
 
 ---
 
